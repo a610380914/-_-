@@ -1,0 +1,6 @@
+{
+  "name": "点众创作者收入模块",
+  "description": "点众创作者平台的短故事稿费收入模块，支持按书籍与月份筛选、多维明细拆分及规则说明",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
